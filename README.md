@@ -1,2 +1,4 @@
 # kaggle-TwitterNLP
-Uses NLP to determine if a tweet is about disaster
+Use NLP to determine if a tweet is about disaster
+
+
